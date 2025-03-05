@@ -20,3 +20,4 @@ print ("Kristine Stepuceva!")
 print("Sveiciens no Pūces!")
 
 print("Sveiki! -Elvīra Ansone")
+
