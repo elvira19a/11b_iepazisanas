@@ -17,7 +17,9 @@ print("Otrais!!! - Ilja Parhomenko")
 
 print ("Kristine Stepuceva!")
 
+
+print ("Zlata Kovakevska")
+
 print("Sveiciens no Pūces!")
 
 print("Sveiki! -Elvīra Ansone")
-
