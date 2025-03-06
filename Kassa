@@ -9,4 +9,7 @@ d = (atlikums - a*50-b*20-c*10)//5
 e = (atlikums - a*50-b*20-c*10-d*5)//2
 f = (atlikums - a*50-b*20-c*10-d*5-e*2)//1
 
-print(a,b,c,d,e,f)
+print("Jūms vajadzēs atdot :")
+print("50 centu monetas:", a,"; 20 centu monetas:", b)
+print("10 centu monetas:", c,"; 50 centu monetas:", d)
+print("2 centu monetas:", e,"; 1 centu monetas:", f)
